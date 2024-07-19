@@ -18,6 +18,12 @@ Studying at Brigham Young University - Idaho
 
 ### Academic Projects
 
+- __houses.qmd__: imports CSV data, cleans it, and uses machine learning to predict if a house was built before 1980 (over 92% accuracy)
+
+- __airports.qmd__: imports JSON data, cleans it, and displayes statistics of airport delays
+
+- __baseball.qmd__: uses SQL to import data from MLB teams and players, displays highest paid athletes, all time highest winning teams, player with the longest career, etc.
+
 - __GoalGame.cs__: allows users to set different types of goals, earn points for completing goals, save and upload goals, and see a leaderboard of total points from other users
 
 - __SportingEvent.cs__: saves and loads many types of data for teams of various sports, generates averages of attributes for winning events, shows leaderboard of teams with the highest winning percentage
