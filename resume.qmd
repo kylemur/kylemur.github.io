@@ -1,89 +1,87 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kyle Murdock's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kyle Murdock
+Student of Software Engineering
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mur14008@byui.edu">mur14008@byui.edu</a>
+| <a href="http://www.linkedin.com/in/kyle-murdock-byui">My LindedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at Brigham Young University - Idaho
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Academic Projects
+
+- __encode_decode.py__: used to encrypt and decrypt data
+
+- __receipt.py__: imports purchase data, organizes the data, and calculates subtotal, discounts, tax, and total
+
+- __life_expectancy.py__: imports data from a CSV file with lifespan data and computes life expectancy for countries, years, etc.
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Embedded Systems Certificate 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2020`
+__Associate of Science__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Focus on Spanish
 
 
+`January 2024 - present`
+__Bachelor of Science in Software Engineering__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- 4.0 GPA in degree specific courses 
+- Estimated to graduate in July 2025
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Coursework
 
-### Journals
+- Programming with Classes, Programming with Functions, Data Science Programming, Technical Teamwork, Data Intuition and Insight, Computer Systems, Web Fundamentals, Intro to Linux, Electrical and Computer Engineering, Cybersecurity, Computing
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`November 2020 - present`
+__SOS International__, USA
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Providing Q’eqchi’/Kekchi interpreting services in immigration court for defendants, judges, attorneys, etc.
 
 
+## Skills
 
-<!-- ### Footer
+- Python: wrote 40+ programs and collaborated on another 10
 
-Last updated: May 2013 -->
+- SQL: used in multiple projects
+
+- Object-oriented programmer: correctly use OOP principles (for example, abstraction, encapsulation, inheritance and polymorphism) in multiple C# projects
+
+- Programming with Classes: made several projects with classes using C# and Python
+
+- Web Developer: used HTML and CSS to make several web pages that link to each other 
+
+- Operating systems: Windows, Linux, Android, iOS
+
+- Mobile application developer: developed multiple apps
+
+- Spanish and Q’eqchi’ (Kekchi): lived in Guatemala, Mexico, and worked as an interpreter for over 5 years
+
+
+
+### Footer
+
+Last updated: July 2024
