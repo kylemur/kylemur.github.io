@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Kyle Murdock - Data Science Portfolio"
+  title: "Kyle Murdock - Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/kylemur/kylemur.github.io
@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Kyle Murdock 2024©"
+    left: "Kyle Murdock 2025©"
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/kyle-murdock-byui
