@@ -7,7 +7,7 @@ Student of Software Engineering
 
 <div id="webaddress">
 <a href="mur14008@byui.edu">mur14008@byui.edu</a>
-| <a href="http://www.linkedin.com/in/kyle-murdock-byui">My LindedIn page</a>
+| <a href="http://www.linkedin.com/in/kyle-murdock-byui">My LinkedIn page</a>
 </div>
 
 
@@ -52,8 +52,8 @@ __Associate of Science__
 `January 2024 - present`
 __Bachelor of Science in Software Engineering__
 
-- 4.0 GPA in degree specific courses 
-- Estimated to graduate in July 2025
+- 3.97 GPA in degree specific courses 
+- Estimated to graduate in December 2025
 
 
 
