@@ -51,17 +51,7 @@
     "href": "full_stack.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": "ComeToMeSports - A full-stack web application that helps users find nearby sporting events.\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack"
     ]
