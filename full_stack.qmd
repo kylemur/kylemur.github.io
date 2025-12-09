@@ -1,10 +1,14 @@
 ---
 title: "about me"
-subtitle: "my data science portfolio"
+subtitle: "my portfolio"
 # use quarto markdown to 
 ---
 
+<!--
 # Title 1 Header
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+-->
+
+[ComeToMeSports](https://kylemur.github.io/ComeToMeSports/) - A full-stack web application that helps users find nearby sporting events.
