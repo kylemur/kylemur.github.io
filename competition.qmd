@@ -1,10 +1,12 @@
 ---
 title: "about me"
-subtitle: "my data science portfolio"
+subtitle: "my portfolio"
 # use quarto markdown to 
 ---
-
+<!--
 # Title 1 Header
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+-->
+[Mind-Controlled Drone](https://www.linkedin.com/posts/kyle-murdock-byui_hackathon-neurotech-droneinnovation-activity-7386284696114094080-mcV-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGBbRsBEL4nxqaSRV98Tmk2QY9oJ0cvEQ0) at the USU Hackathon in February 2025.
