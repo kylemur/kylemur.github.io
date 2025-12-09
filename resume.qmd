@@ -3,14 +3,14 @@ layout: cv
 title: Kyle Murdock's CV
 ---
 # Kyle Murdock
-Student of Software Engineering
-
+Student of Software and Embedded Systems Engineering
+<!--
 <div id="webaddress">
 <a href="mur14008@byui.edu">mur14008@byui.edu</a>
 | <a href="http://www.linkedin.com/in/kyle-murdock-byui">My LinkedIn page</a>
 </div>
 
-
+ 
 ## Currently
 
 Studying at Brigham Young University - Idaho
@@ -98,6 +98,216 @@ __SOS International__, USA
 
 
 
+
+
+
+### Contact
+
+- **Phone:** (208) 970-1136  
+- **Email:** ksdock77@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kyle-murdock-byui](https://www.linkedin.com/in/kyle-murdock-byui)  
+- **GitHub:** [github.com/kylemur](https://github.com/kylemur)  
+- **Work authorization:** US Citizen
+
+---
+
+### Professional summary
+
+Software Engineering student graduating December 2025 (Major GPA 3.97) with a certificate in Embedded Systems. Experience spans automated software testing, full-stack web development, and hands-on microcontroller design. Seeking a software or embedded systems engineering role leveraging rigorous testing, systems thinking, and production-ready implementation.
+
+---
+
+### Professional experience
+
+#### Quality Assurance / Software Developer in Test — The Church of Jesus Christ of Latter-day Saints
+##### August 2025 – Present • Hybrid • Riverton, Utah
+
+- **Impact:** Reduced manual regression testing time by ~10% by developing and implementing automated test suites.
+- **Collaboration:** Worked with a 3-person development team to validate weekly releases and ensure stable builds.
+- **Tools & scope:** Executed functional and regression testing for application updates and defect resolutions using Playwright, Bruno, and proprietary tools integrated into Azure DevOps Pipelines.
+
+#### Website Manager — Fulfillment Therapy
+##### January 2025 – May 2025 • Remote • Caldwell, Idaho
+
+- **Optimization:** Led improvements across 25+ web pages to enhance performance and usability.
+- **Automation:** Built an API-driven podcast page that integrates a media player and displays up-to-date episode data.
+
+#### Kekchi/Q'eqchi' Interpreter — SOS International, LLC
+##### February 2020 – Present • Remote/Travel • USA
+
+- **Communication:** Facilitated real-time legal interpretation for hundreds of cases among US Immigration Court judges, attorneys, and respondents across 25+ locations.
+
+---
+
+### Education
+
+#### Brigham Young University–Idaho — Bachelor of Software Engineering
+##### Rexburg, Idaho • Graduation: December 2025 (expected)
+
+- **Major GPA:** 3.97  
+- **Certificate and clusters:** Embedded Systems; Spanish (Fluent); Physical Science and Mathematics
+
+---
+
+### Technical skills
+
+- **Programming languages:** Python, C, C++, C#, Java, JavaScript, HTML/CSS, SQL, Kotlin, ARM, x86
+
+| Category           | Details                                                                                     |
+|--------------------|----------------------------------------------------------------------------------------------|
+| Software testing   | Playwright, Postman, Selenium, Azure DevOps Pipelines; Functional & Regression Testing      |
+| Microcontrollers   | ESP32, STM32, Arduino; I2C, SPI, UART, ESP-NOW                                              |
+| FPGA/ASIC design   | SystemVerilog for circuit design with focus on simplification and minimal interference       |
+| Web & mobile       | Full-stack apps with Node.js; Android development with Kotlin and Android Studio            |
+| Cloud              | Deployed scalable web apps on AWS with secure data storage                                  |
+| AI                 | Utilized AI tools to accelerate development, debug code, and optimize functionality         |
+
+---
+
+### Projects
+
+#### Sporting Event Locator
+
+- **Stack:** HTML, CSS, JavaScript, Node.js.
+- **Data:** Web scraping for real-time event data.
+- **Outcome:** Deployed full-stack web application delivering zip code–based event discovery.
+
+#### Mind-Controlled Drone
+
+- **Role:** Co-led development of signal-to-command pipeline translating brain signals into flight controls.
+- **ML:** Built a Python-based model to classify sensor commands with 80%+ accuracy.
+
+#### Self-Balancing Robot
+
+- **Leadership:** Led software development for a two-wheeled, remote-controlled robot.
+- **Control systems:** Implemented FreeRTOS and a PID loop in C on ESP32, stabilizing via IMU data.
+
+#### Speed Monitor
+
+- **Hardware:** STM32 with ultrasonic sensor.
+- **Embedded C:** Processed sensor input, computed object speed, and displayed results on an LCD.
+
+#### Cube Satellite (IEEE)
+
+- **Avionics:** Owned flight software development in C++.
+- **Hardware design:** Designed the primary PCB using KiCad.
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+### Contact
+
+- **Phone:** (208) 970-1136  
+- **Email:** ksdock77@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kyle-murdock-byui](https://www.linkedin.com/in/kyle-murdock-byui)  
+- **GitHub:** [github.com/kylemur](https://github.com/kylemur)  
+- **Work authorization:** US Citizen
+
+---
+
+### Professional summary
+
+Software Engineering student graduating December 2025 (Major GPA 3.97) with a certificate in Embedded Systems. Experienced in automated software testing, full-stack web development, and embedded systems design. Strong background in data-driven applications, machine learning, and microcontroller programming. Seeking a role in software or embedded systems engineering to apply technical expertise and problem-solving skills.
+
+---
+
+### Professional experience
+
+#### Quality Assurance / Software Developer in Test — The Church of Jesus Christ of Latter-day Saints
+##### August 2025 – Present • Hybrid • Riverton, Utah
+
+- Reduced manual regression testing time by ~10% by developing automated test suites.  
+- Collaborated with a 3-person development team to validate weekly releases and ensure stable builds.  
+- Executed functional and regression testing using Playwright, Bruno, and proprietary tools integrated into Azure DevOps Pipelines.  
+
+#### Website Manager — Fulfillment Therapy
+##### January 2025 – May 2025 • Remote • Caldwell, Idaho
+
+- Optimized 25+ web pages for performance and usability.  
+- Automated podcast page with APIs to integrate a media player and display up-to-date episode data.  
+
+#### Interpreter — SOS International, LLC
+##### February 2020 – Present • Remote/Travel • USA
+
+- Provided real-time Q’eqchi’/Kekchi interpretation for hundreds of immigration court cases across 25+ locations.  
+
+---
+
+### Education
+
+**Brigham Young University–Idaho**  
+Bachelor of Science in Software Engineering (Expected December 2025)  
+- Major GPA: 3.97  
+- Certificate: Embedded Systems  
+- Clusters: Spanish (Fluent), Physical Science and Mathematics  
+
+**Associate of Science (2017 – 2020)**  
+- Focus on Spanish and Exercise Physiology 
+
+---
+
+### Coursework
+
+Programming with Classes • Programming with Functions • Data Science Programming • Technical Teamwork • Data Intuition and Insight • Computer Systems • Web Fundamentals • Intro to Linux • Electrical and Computer Engineering • Cybersecurity • Computing  
+
+---
+
+### Technical skills
+
+- **Languages:** Python, C, C++, C#, Java, JavaScript, HTML/CSS, SQL, Kotlin, ARM, x86  
+- **Software Testing:** Playwright, Postman, Selenium, Azure DevOps Pipelines; Functional & Regression Testing  
+- **Microcontrollers:** ESP32, STM32, Arduino; I2C, SPI, UART, ESP-NOW  
+- **FPGA/ASIC Design:** SystemVerilog for circuit design with focus on simplification and minimal interference  
+- **Web & Mobile:** Full-stack apps with Node.js; Android development with Kotlin and Android Studio  
+- **Cloud:** Deployed scalable web apps on AWS with secure data storage  
+- **AI/ML:** Applied Gaussian Naive Bayes and Random Forest models (92%+ accuracy); leveraged AI tools for debugging and optimization  
+- **Data Visualization:** Tableau for dozens of interactive dashboards  
+- **Operating Systems:** Windows, Linux, Android, iOS  
+- **Languages:** Spanish & Q’eqchi’ (Kekchi)  
+
+---
+
+### Projects
+
+#### Academic & Research Projects
+- **House Attribute Predictor** — Python machine learning model predicting if a house was built before 1980 (92%+ accuracy).  
+- **Airport Data Analysis** — JSON data analysis and visualization of airport delays.  
+- **Baseball Data Analysis** — SQL-driven analysis of MLB data: salaries, winning teams, longest careers.  
+- **Goal Game** — C# goal-tracking app with points, persistence, and leaderboard functionality.  
+- **Sporting Event Analysis** — C# sports analytics system calculating averages and win percentages.  
+- **Encode Decode** — Python encryption and decryption utility.    
+
+#### Engineering & Hackathon Projects
+- **ComeToMeSports** — Full-stack web app for finding nearby sporting events. Uses Node.js and web scraping for real-time event data.  
+- **Mind-Controlled Drone** — Co-led development of brain-signal-to-command system; Python ML model achieved 80%+ accuracy.  
+- **Self-Balancing Robot** — Implemented FreeRTOS and PID loop in C on ESP32 to stabilize robot via IMU data.  
+- **Speed Monitor** — STM32-based ultrasonic sensor system calculating object speed and displaying results on LCD.  
+- **Cube Satellite (IEEE)** — Owned avionics software development in C++; designed primary PCB using KiCad.  
+
+---
+
+### Additional skills
+
+- Built 40+ Python programs and collaborated on 10+ team projects.  
+- Applied OOP principles (abstraction, encapsulation, inheritance, polymorphism) in multiple C# projects.  
+- Developed mobile applications for Android.  
+- Created multi-page websites with HTML/CSS.  
+- Experienced in teamwork, technical communication, and mission-driven development.  
+
+
+
+
+
+
 ### Footer
 
-Last updated: July 2024
+Last updated: December 2025
